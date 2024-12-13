@@ -1,0 +1,24 @@
+https://www.youtube.com/watch?v=usDyx5B4DCw
+
+#start a nodejs project
+npm init -y
+
+#backend technologies
+npm i express mongoose jsonwebtoken bcrypt cookie-parser dotenv
+
+#vite for using and installing react
+npm create vite@latest
+
+#install nodemonitor
+npm i -D nodemon
+
+#installed tailwind
+https://tailwindcss.com/docs/guides/vite
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+
+
+
+
+https://www.youtube.com/watch?v=2aeMRB8LL4o
